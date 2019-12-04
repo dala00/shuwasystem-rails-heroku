@@ -1,6 +1,6 @@
-# shuwasystem-laravel
+# shuwasystem-rails-heroku
 
-このリポジトリはLaravel用のサンプルアプリケーションです。
+このリポジトリはHerokuで利用するためのRuby on Rails用のサンプルアプリケーションです。
 
 ## 質問など
 
