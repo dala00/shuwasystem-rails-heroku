@@ -1,6 +1,6 @@
 # shuwasystem-rails-heroku
 
-このリポジトリはHerokuで利用するためのRuby on Rails用のサンプルアプリケーションです。
+このリポジトリは書籍「個人開発のための webサービス公開マニュアル」で利用しているHerokuで利用するためのRuby on Rails用のサンプルアプリケーションです。
 
 ## 質問など
 
